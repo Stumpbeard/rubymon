@@ -209,8 +209,6 @@ class Poop
   end
 
   attr_accessor :y, :x
-
-  def draw; end
 end
 
 Curses.init_screen
